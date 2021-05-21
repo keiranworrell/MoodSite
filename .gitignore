@@ -1,2 +1,2 @@
 creds.txt
-/flaskApp/website/database.db
+*.db
